@@ -1,0 +1,11 @@
+#gif {
+  width: 300px;
+}
+
+#oprah, #gosling, #cage, #paltrow, #airbud {
+  display: none;
+}
+
+.results img {
+  width: 500px;
+}
