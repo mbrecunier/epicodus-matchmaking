@@ -1,5 +1,6 @@
 $(document).ready(function() {
   $("form#questions").submit(function(event) {
+    $("#profiles").children("div").hide();
 
     var gender = $('input[name=gender]:checked').val();
     var agerange = $('input[name=agerange]:checked').val();
@@ -8,7 +9,7 @@ $(document).ready(function() {
     if (gender === "female") {
       if (agerange === ("30" || "45")) {
         $("#paltrow").show();
-      } else if (agerange === "65"){
+      } else if (agerange === "65") {
         $("#oprah").show();
       } else {
         $("#airbud").show();

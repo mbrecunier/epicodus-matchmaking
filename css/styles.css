@@ -1,12 +1,16 @@
+body {
+  background-color: #FFD7FA;
+}
+
 #gif {
   display: none;
   width: 300px;
 }
 
-#oprah, #gosling, #cage, #paltrow, #airbud {
+#oprah, #paltrow, #airbud, #cage, #gosling {
   display: none;
 }
 
-.results img {
+#profiles img {
   width: 500px;
 }
