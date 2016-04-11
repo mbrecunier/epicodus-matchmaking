@@ -13,6 +13,10 @@ The user will enter information in a form to determine who their perfect celebri
 * Clone this repository
 * Open in a standard web browser
 
+--or--
+
+* View on [GitHub Pages] (http://mbrecunier.github.io/epicodus-matchmaking/)
+
 ## Known Bugs
 
 No known bugs.
